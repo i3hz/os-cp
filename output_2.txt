@@ -1,0 +1,114 @@
+
+
+
+
+JOB ID   :  0202
+ LINE LIMIT EXCEEDED
+IC       :  15
+IR       :  PD60
+TTL      :  25
+TLL      :  4
+TTC      :  15
+LLC      :  4
+
+
+
+
+JOB ID   :  0302
+ NO ERROR
+IC       :  10
+IR       :  H
+TTL      :  10
+TLL      :  2
+TTC      :  10
+LLC      :  2
+
+
+JOB ID   :  0102
+ INVALID PAGE FAULT
+IC       :  2
+IR       :  LR36
+TTL      :  7
+TLL      :  2
+TTC      :  1
+LLC      :  0
+
+
+
+
+
+JOB ID   :  0401
+ TIME LIMIT EXCEEDED
+IC       :  11
+IR       :  PD50
+TTL      :  9
+TLL      :  4
+TTC      :  9
+LLC      :  3
+
+
+JOB ID   :  1503
+ OPERAND ERROR
+IC       :  4
+IR       :  SR7A
+TTL      :  20
+TLL      :  10
+TTC      :  3
+LLC      :  0
+
+
+JOB ID   :  1403
+ OPERATION CODE ERROR
+IC       :  9
+IR       :  PA30
+TTL      :  50
+TLL      :  8
+TTC      :  8
+LLC      :  0
+
+
+JOB ID   :  1403
+ OPERATION CODE ERROR
+IC       :  9
+IR       :  PA30
+TTL      :  50
+TLL      :  8
+TTC      :  8
+LLC      :  0
+
+
+
+JOB ID   :  0402
+TIME LIMIT EXCEEDED AND OPERAND ERROR
+
+IC       :  5
+IR       :  PD3F
+TTL      :  4
+TLL      :  2
+TTC      :  4
+LLC      :  1
+
+
+
+JOB ID   :  0403
+TIME LIMIT EXCEEDED AND OPERATION CODE ERROR
+
+IC       :  5
+IR       :  PS40
+TTL      :  4
+TLL      :  2
+TTC      :  4
+LLC      :  1
+
+
+
+JOB ID   :  0405
+ TIME LIMIT EXCEEDED
+IC       :  4
+IR       :  SR32
+TTL      :  3
+TLL      :  2
+TTC      :  3
+LLC      :  1
+
+
